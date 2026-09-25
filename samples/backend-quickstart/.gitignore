@@ -1,0 +1,2 @@
+# Real config with secrets — never commit.
+.env

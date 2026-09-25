@@ -1,0 +1,4 @@
+# Local binary-consumption artifacts (the release asset, unzipped)
+VisualizeSDK.xcframework/
+*.xcframework.zip
+.swiftpm/
