@@ -16,7 +16,7 @@ let package = Package(
         .binaryTarget(
             name: "VisualizeSDK",
             url: "https://github.com/Visualize-KK/visualize-sdk/releases/download/1.0.0/VisualizeSDK-1.0.0.xcframework.zip",
-            checksum: "6eeeeef24406a9080e1a6167d2dd107e8f1e8b56620baad0e720296f79e28297"
+            checksum: "41de2f86645f17ba6bc2b9f6cde74b1a79e94d5efef445bb96441a93922da207"
         )
     ]
 )
